@@ -51,6 +51,7 @@ namespace консоль
                 Cat cat = new Cat("Kit", new DateTime(2005, 8, 7));
                 Console.WriteLine($"Коту по имени {cat.Name} уже {cat.GetAge()} лет"); 
 
+
             }
 
         }
